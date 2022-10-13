@@ -1,5 +1,5 @@
 split-data
 figs
 .vscode
-.docx
-.odt
+*.docx
+*.odt
